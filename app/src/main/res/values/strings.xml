@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReportIntents</string>
+    <string name="report_title_hint">Report Title</string>
+    <string name="report_title_label">Title</string>
+    <string name="report_resolved_label">Resolved</string>
+    <string name="report_details_label">Details</string>
+    <string name="date_picker_title">Date of Reporting</string>
+</resources>
